@@ -1,0 +1,101 @@
+date,product_id,product_name,category,region,units_sold,unit_price,revenue,competitor_price,google_trend_score,market_sentiment,stock_level,lead_time_days
+2023-01-01,P004,Tool D,Tools,North,58,79.12,4588.96,78.31,56,positive,219,7
+2023-01-02,P002,Gadget B,Home Goods,North,127,64.94,8247.38,67.22,45,negative,62,4
+2023-01-03,P002,Gadget B,Home Goods,West,199,44.73,8901.27,43.43,53,positive,190,6
+2023-01-04,P004,Tool D,Tools,West,93,39.84,3705.12,35.31,64,negative,154,2
+2023-01-05,P002,Gadget B,Home Goods,East,154,44.64,6874.56,42.47,69,positive,139,2
+2023-01-06,P003,Device C,Appliances,East,165,70.04,11556.6,65.26,58,negative,291,7
+2023-01-07,P004,Tool D,Tools,West,66,30.18,1991.88,34.8,50,positive,139,4
+2023-01-08,P004,Tool D,Tools,East,59,59.69,3521.71,63.81,69,negative,109,3
+2023-01-09,P003,Device C,Appliances,South,190,32.45,6165.5,33.34,61,negative,67,7
+2023-01-10,P004,Tool D,Tools,East,119,62.73,7464.87,67.18,96,neutral,58,5
+2023-01-11,P001,Widget A,Electronics,East,51,97.87,4991.37,99.61,53,neutral,183,4
+2023-01-12,P003,Device C,Appliances,North,84,21.08,1770.72,17.31,94,positive,267,4
+2023-01-13,P003,Device C,Appliances,South,79,40.66,3212.14,38.0,69,negative,295,3
+2023-01-14,P004,Tool D,Tools,North,166,79.47,13192.02,79.02,83,negative,186,5
+2023-01-15,P001,Widget A,Electronics,South,99,85.49,8463.51,86.91,36,positive,159,5
+2023-01-16,P003,Device C,Appliances,West,141,97.87,13799.67,97.19,44,negative,109,6
+2023-01-17,P003,Device C,Appliances,North,140,71.89,10064.6,75.36,78,neutral,189,5
+2023-01-18,P004,Tool D,Tools,West,200,77.11,15422.0,76.68,73,positive,163,2
+2023-01-19,P003,Device C,Appliances,West,92,41.64,3830.88,40.15,94,negative,207,2
+2023-01-20,P003,Device C,Appliances,West,178,71.7,12762.6,72.64,54,positive,210,5
+2023-01-21,P001,Widget A,Electronics,North,178,97.04,17273.12,93.91,86,positive,258,2
+2023-01-22,P003,Device C,Appliances,West,196,75.2,14739.2,71.41,46,negative,220,6
+2023-01-23,P002,Gadget B,Home Goods,West,144,57.16,8231.04,61.78,70,positive,104,6
+2023-01-24,P004,Tool D,Tools,East,151,39.68,5991.68,35.76,79,neutral,75,6
+2023-01-25,P002,Gadget B,Home Goods,North,187,42.54,7954.98,42.37,76,positive,211,5
+2023-01-26,P004,Tool D,Tools,West,111,78.27,8687.97,79.04,40,neutral,272,6
+2023-01-27,P002,Gadget B,Home Goods,West,94,33.43,3142.42,31.26,36,positive,87,2
+2023-01-28,P002,Gadget B,Home Goods,West,161,64.64,10407.04,67.22,34,positive,245,5
+2023-01-29,P004,Tool D,Tools,West,149,70.27,10470.23,66.47,81,positive,73,5
+2023-01-30,P004,Tool D,Tools,South,109,29.28,3191.52,29.63,88,neutral,116,5
+2023-01-01,P001,Widget A,Electronics,West,79,24.03,1898.37,19.21,65,positive,54,6
+2023-01-02,P003,Device C,Appliances,North,159,98.74,15699.66,95.8,64,negative,120,5
+2023-01-03,P004,Tool D,Tools,North,168,54.79,9204.72,52.28,46,positive,111,6
+2023-01-04,P001,Widget A,Electronics,North,108,99.71,10768.68,101.98,40,neutral,271,4
+2023-01-05,P002,Gadget B,Home Goods,East,179,36.2,6479.8,35.31,67,positive,236,7
+2023-01-06,P001,Widget A,Electronics,West,65,85.18,5536.7,83.37,78,negative,192,2
+2023-01-07,P004,Tool D,Tools,South,187,50.42,9428.54,55.34,88,neutral,191,2
+2023-01-08,P001,Widget A,Electronics,West,95,20.91,1986.45,20.1,44,negative,287,3
+2023-01-09,P004,Tool D,Tools,West,93,56.51,5255.43,55.45,38,negative,185,2
+2023-01-10,P002,Gadget B,Home Goods,South,175,46.95,8216.25,48.36,95,positive,268,2
+2023-01-11,P004,Tool D,Tools,North,142,64.46,9153.32,60.89,82,negative,279,3
+2023-01-12,P002,Gadget B,Home Goods,North,139,28.11,3907.29,26.7,89,negative,162,6
+2023-01-13,P003,Device C,Appliances,South,196,67.68,13265.28,71.27,56,positive,188,5
+2023-01-14,P003,Device C,Appliances,East,187,96.97,18133.39,92.8,39,negative,296,7
+2023-01-15,P001,Widget A,Electronics,West,136,92.09,12524.24,96.07,59,positive,92,7
+2023-01-16,P004,Tool D,Tools,East,115,38.43,4419.45,39.47,92,neutral,155,7
+2023-01-17,P003,Device C,Appliances,North,162,68.07,11027.34,65.39,87,negative,230,6
+2023-01-18,P002,Gadget B,Home Goods,East,90,96.28,8665.2,99.19,32,neutral,149,3
+2023-01-19,P002,Gadget B,Home Goods,North,138,54.48,7518.24,55.3,35,positive,185,4
+2023-01-20,P004,Tool D,Tools,South,70,80.42,5629.4,79.13,61,negative,192,7
+2023-01-21,P004,Tool D,Tools,East,124,67.2,8332.8,71.25,36,negative,59,7
+2023-01-22,P002,Gadget B,Home Goods,North,108,62.22,6719.76,65.61,100,negative,291,4
+2023-01-23,P003,Device C,Appliances,North,146,74.58,10888.68,72.44,31,positive,137,4
+2023-01-24,P004,Tool D,Tools,East,187,60.29,11274.23,65.25,42,positive,61,4
+2023-01-25,P001,Widget A,Electronics,West,81,75.66,6128.46,76.31,78,neutral,186,6
+2023-01-26,P003,Device C,Appliances,North,163,60.31,9830.53,56.5,56,positive,298,3
+2023-01-27,P001,Widget A,Electronics,South,114,81.39,9278.46,78.97,83,positive,265,4
+2023-01-28,P002,Gadget B,Home Goods,South,96,75.55,7252.8,78.43,95,neutral,245,5
+2023-01-29,P003,Device C,Appliances,East,129,43.6,5624.4,47.97,81,positive,91,2
+2023-01-30,P001,Widget A,Electronics,East,68,81.54,5544.72,80.55,42,neutral,63,3
+2023-01-01,P001,Widget A,Electronics,West,126,73.59,9272.34,73.95,56,neutral,82,4
+2023-01-02,P001,Widget A,Electronics,South,117,55.01,6436.17,54.18,86,negative,85,2
+2023-01-03,P003,Device C,Appliances,West,75,59.79,4484.25,61.02,65,negative,233,5
+2023-01-04,P003,Device C,Appliances,North,174,37.87,6589.38,35.77,71,neutral,257,5
+2023-01-05,P004,Tool D,Tools,East,196,97.02,19015.92,100.21,49,negative,136,5
+2023-01-06,P002,Gadget B,Home Goods,West,79,33.1,2614.9,33.17,81,negative,209,3
+2023-01-07,P003,Device C,Appliances,South,69,65.62,4527.78,62.41,57,neutral,134,5
+2023-01-08,P001,Widget A,Electronics,West,160,37.65,6024.0,41.16,93,positive,299,5
+2023-01-09,P002,Gadget B,Home Goods,East,73,40.87,2983.51,43.7,78,negative,93,2
+2023-01-10,P004,Tool D,Tools,North,183,36.61,6699.63,39.72,83,positive,216,2
+2023-01-11,P002,Gadget B,Home Goods,South,178,27.0,4806.0,25.97,100,positive,116,3
+2023-01-12,P003,Device C,Appliances,East,88,27.86,2451.68,26.83,75,positive,175,7
+2023-01-13,P003,Device C,Appliances,East,133,47.45,6310.85,48.5,72,negative,167,7
+2023-01-14,P001,Widget A,Electronics,North,156,23.74,3703.44,19.07,93,neutral,69,2
+2023-01-15,P002,Gadget B,Home Goods,South,157,37.86,5944.02,36.57,38,negative,66,5
+2023-01-16,P001,Widget A,Electronics,North,174,66.5,11571.0,69.8,44,negative,199,2
+2023-01-17,P003,Device C,Appliances,North,55,44.23,2432.65,48.18,30,negative,159,6
+2023-01-18,P003,Device C,Appliances,West,71,92.54,6570.34,96.68,46,negative,187,6
+2023-01-19,P004,Tool D,Tools,East,129,79.96,10314.84,83.74,90,negative,267,6
+2023-01-20,P001,Widget A,Electronics,South,157,71.7,11256.9,68.26,45,neutral,102,4
+2023-01-21,P001,Widget A,Electronics,North,135,74.28,10027.8,76.16,53,negative,260,5
+2023-01-22,P004,Tool D,Tools,South,163,81.79,13331.77,77.65,95,neutral,222,5
+2023-01-23,P002,Gadget B,Home Goods,North,188,94.54,17773.52,91.28,89,neutral,91,5
+2023-01-24,P001,Widget A,Electronics,North,148,40.45,5986.6,40.2,71,positive,296,6
+2023-01-25,P004,Tool D,Tools,East,61,63.12,3850.32,65.1,32,negative,251,2
+2023-01-26,P003,Device C,Appliances,North,136,70.27,9556.72,65.3,73,negative,72,2
+2023-01-27,P001,Widget A,Electronics,West,142,50.58,7182.36,50.04,96,positive,164,4
+2023-01-28,P004,Tool D,Tools,East,70,24.01,1680.7,26.07,55,positive,284,2
+2023-01-29,P003,Device C,Appliances,East,62,32.03,1985.86,32.74,83,positive,220,6
+2023-01-30,P002,Gadget B,Home Goods,West,127,25.45,3232.15,23.53,36,neutral,100,7
+2023-01-01,P002,Gadget B,Home Goods,East,183,52.29,9569.07,52.94,90,negative,91,3
+2023-01-02,P004,Tool D,Tools,West,104,68.59,7133.36,70.69,44,neutral,169,7
+2023-01-03,P001,Widget A,Electronics,North,66,54.08,3569.28,52.74,66,negative,83,4
+2023-01-04,P004,Tool D,Tools,South,148,53.43,7907.64,57.98,79,negative,283,7
+2023-01-05,P001,Widget A,Electronics,East,121,90.86,10994.06,88.46,43,neutral,286,2
+2023-01-06,P002,Gadget B,Home Goods,North,176,59.15,10410.4,57.55,42,positive,269,6
+2023-01-07,P003,Device C,Appliances,North,172,91.8,15789.6,90.58,83,neutral,121,7
+2023-01-08,P002,Gadget B,Home Goods,West,152,68.27,10377.04,69.82,97,neutral,56,3
+2023-01-09,P001,Widget A,Electronics,North,69,27.26,1880.94,24.76,90,negative,167,6
+2023-01-10,P003,Device C,Appliances,North,156,58.96,9197.76,63.55,65,negative,162,4
